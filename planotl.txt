@@ -1,0 +1,119 @@
+Space Plans 2023
+
+A. Space elevator
+	tethers near Singapore and Equador
+	right angle tether with two climbing surfaces or tracks
+	lifter grips flat tether, power strips on both sides
+	lifter powered through strips from solar power facility at the space hub
+	lifter includes parachutes and inflatable raft body in case of unplanned descent
+
+Lunar elevator -- shorter than Earth's, can lift ore
+	space elevator for the moon
+
+	Command and control
+	Base hub
+		control
+		loading area
+		spare lifters
+		ground tether
+	Space hub
+		control
+		loading area
+		solar power facility
+		power distribution
+		spare lifters
+		counterweight tether
+		counterweight mass
+	Communications
+		production
+		studios
+		control
+		technology
+	Defense
+	Elevator equipment
+		lifter -- climbs the tether, carries people and goods
+		hoister -- can remove a lifter from the tether and bring it down
+		grabber -- light weight lifter with grappler arms for maintenance, can switch tracks
+			-- track inspection sensors and maintenance devices
+		bus -- airborne vehicle for removing people and cargo from a stopped lifter
+		container -- box for hauling cargo
+	
+	Space equipment
+		homer -- small drive for attaching to objects in space, homes on a beacon
+			control unit
+			engines
+			attachment equipment
+		navigator -- paired with homer to calculate a course and provide instructions
+			for homer to reach proximity with current beacon or target
+		beacon -- target destination for homer
+
+B. Mining
+	need to mine the moon and astroid belt
+	lifting raw materials from Earth to orbital shipyards is unsustainable
+		except in small amounts
+		
+	Mining  equipment
+		digger -- extractor for removing ore from the ground or asteroids
+		smelter -- ore processor and refiner
+		gondola -- for carrying ore from place to place
+		tug -- for pulling gondolas
+		car -- general purpose vehicle for driving around the moon's surface
+		trailer -- sensor and equipment for car or tug
+		prospector -- space vehicle with sensors for buried ore
+	
+C. Shipyard
+	facility for building large spaceships in space
+	dock -- structure for tying up large space vehicles during construction or maintenance
+	fuel depot
+	equipment
+	tool crib
+	parts
+
+D. Quarters
+	barracks, shared bath
+	single one bedroom
+	double two bedroom
+	suite
+	guest quarters
+
+E. Food services
+	food storage equipment
+	food preparation equipment
+	food service equipment
+
+F. Headquarters
+	administration
+	personnel
+		records
+	technology
+		recycling materials, water
+	training
+	planning and analysis
+	medical
+		infirmary
+		mortuary
+	psychological
+	credit union
+
+
+G. Promenade
+	bars, restaurants, shops, entertainment
+
+H. Supply depot
+	inventory of spare parts and equipment
+	raw materials dump
+	50 cubic meter field controlled containers
+
+I. Disposal
+	getting rid of stuff no longer needed
+	collecting and removing space debris
+
+J. Spacewear
+	maintenance suit
+	mining suit
+	command
+	staff
+	basic
+	rescue bubble
+
+
